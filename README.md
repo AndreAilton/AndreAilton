@@ -1,4 +1,4 @@
-### Olá, Meu nome e André 👋
+### Olá, Meu nome e André 🚀
 Sou Estudante na area de Tecnologia
 - Cursando **Analise e Desenvolvimento de Sistemas** Pela [Descomplica](https://descomplica.com.br/faculdade/)
 - 🎓Formado Técnico em **Administração**
