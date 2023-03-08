@@ -11,7 +11,8 @@ Sou Estudante na area de Tecnologia
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
-#### Voce tambem me encontra em
+##
+#### Minhas Redes Sociais
 <a href="https://www.linkedin.com/in/andr%C3%A9-ailton-aba1331aa/">
 <img width='' height='' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />         
 </a>
