@@ -18,6 +18,8 @@ Sou Estudante na area de Tecnologia
 ## 💻**Ferramentas que domino**
 <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width:40px;height:50px;">
 <img width='40' height='50' src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+<img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 
