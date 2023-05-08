@@ -16,7 +16,8 @@ Sou Estudante na area de Tecnologia
 
 🤖🐍**Python focado em automação e analise de dados**
 ## 💻**Ferramentas que domino**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png" alt="Power BI Logo" style="width:50px;height:50px;">
+
+<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png">
 <img width='40' height='50' src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
 <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
