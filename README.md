@@ -25,6 +25,6 @@ Sou Estudante na area de Tecnologia
 
 
 #### Minhas Redes Sociais
-<a href="https://www.linkedin.com/in/andr%C3%A9-ailton-aba1331aa/">
+<a href="https://www.linkedin.com/in/andreailton/">
 <img width='' height='' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />         
 </a>
